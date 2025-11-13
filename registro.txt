@@ -1,0 +1,23 @@
+[2025-11-13 16:25:59] CONSULTA: Listado de productos consultado
+[2025-11-13 16:28:05] ALTA: Producto creado: Mesa
+[2025-11-13 16:28:08] CONSULTA: Listado de productos consultado
+[2025-11-13 16:32:13] CONSULTA: Listado de productos consultado
+[2025-11-13 16:36:13] CONSULTA: Listado de productos consultado
+[2025-11-13 16:36:31] ALTA: Producto creado: Silla
+[2025-11-13 16:36:33] CONSULTA: Listado de productos consultado
+[2025-11-13 16:38:17] CONSULTA: Listado de productos consultado
+[2025-11-13 16:38:25] BAJA: Producto eliminado: 2
+[2025-11-13 16:38:27] BAJA: Producto eliminado: 1
+[2025-11-13 16:38:31] BAJA: Producto eliminado: 0
+[2025-11-13 16:38:34] CONSULTA: Listado de productos consultado
+[2025-11-13 16:49:23] CONSULTA: Listado de productos consultado
+[2025-11-13 16:53:15] BACKUP: Backup generado: inventario_backup_2025-11-13_16-53-15.txt
+[2025-11-13 16:55:33] CONSULTA: Listado de productos consultado
+[2025-11-13 16:55:59] ALTA: Producto creado: Perro
+[2025-11-13 16:56:02] CONSULTA: Listado de productos consultado
+[2025-11-13 16:56:08] CONSULTA: Listado de productos consultado
+[2025-11-13 16:57:46] MODIFICACION: Producto actualizado: 51
+[2025-11-13 16:57:49] CONSULTA: Listado de productos consultado
+[2025-11-13 16:57:56] BAJA: Producto eliminado: 51
+[2025-11-13 16:57:58] CONSULTA: Listado de productos consultado
+[2025-11-13 17:41:13] BACKUP: Backup generado: inventario_backup_2025-11-13_17-41-13.txt
