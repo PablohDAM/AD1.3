@@ -21,3 +21,7 @@
 [2025-11-13 16:57:56] BAJA: Producto eliminado: 51
 [2025-11-13 16:57:58] CONSULTA: Listado de productos consultado
 [2025-11-13 17:41:13] BACKUP: Backup generado: inventario_backup_2025-11-13_17-41-13.txt
+[2025-11-13 17:52:59] BAJA: Producto eliminado: 52
+[2025-11-13 18:20:42] BACKUP: Backup generado: inventario_backup_2025-11-13_18-20-42.txt
+[2025-11-13 18:35:03] BACKUP: Backup generado: inventario_backup_2025-11-13_18-35-03.txt
+[2025-11-13 18:38:13] CONSULTA: Listado de productos consultado
