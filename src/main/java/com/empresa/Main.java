@@ -18,9 +18,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         boolean salir = false;
-        
+
         inventarioService.inicializarInventario();
-        
+
         while (!salir) {
             System.out.println("\n=== Menú Inventario ===");
             System.out.println("1. Gestionar inventario");
@@ -157,5 +157,5 @@ public class Main {
             System.out.println("Error al crear backup: " + e.getMessage());
         }
     }
-        
+
 }
